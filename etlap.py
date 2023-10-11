@@ -39,6 +39,7 @@ def etl():
     keret(meret,karakter)
 
 def lev():
+    keret(meret,karakter)
     szoveg_kiiras(karakter,"Levesek",karakter,meret)
     keret(meret,karakter)
     n = 0
@@ -92,8 +93,3 @@ def dessert():
         etel_kiiras(karakter,desszert,karakter,meret,ar)
     keret(meret,karakter)
 
-etl()
-lev()
-foet()
-drink()
-dessert()
