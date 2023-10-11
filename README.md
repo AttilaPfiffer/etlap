@@ -1,6 +1,6 @@
 # Étterem projekt
 A feladatubk egy étterem étlapját elkészíteni pythonban. Megjelenít egy étlapot, egy rendelés felvételt és egy összegzést/nyugtát a konzolon.
 ## Projekt moduljai
-Étlap modul: étlapot jeleníti meg
-Rendelés modul: a rendelést veszi fel
-Main modul: összegzés megjelenítése
+1. Étlap modul: étlapot jeleníti meg
+2. Rendelés modul: a rendelést veszi fel
+3. Main modul: összegzés megjelenítése
